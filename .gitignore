@@ -1,0 +1,5 @@
+.sbtopts
+.idea/
+target/
+project/project
+.ensime*
